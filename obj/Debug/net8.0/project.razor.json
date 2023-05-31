@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\acer\\source\\repos\\s3-dotnet\\obj\\Debug\\net8.0\\project.razor.json",
+  "FilePath": "c:\\Users\\acer\\source\\repos\\s3-dotnet\\s3-dotnet.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "s3_dotnet",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
