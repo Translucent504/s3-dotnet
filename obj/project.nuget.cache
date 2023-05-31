@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jDJS/DgxhBfDcw92vV2kBVfthZ8gGTx5Wwa2c2xX4mZjzBPetoB4ZxPr6Nerlf+jjoHuEcbbxCxP++hjLsvmmg==",
+  "dgSpecHash": "5loCQP5joQTIi0rzfmEv/ijBSm2DF0YAUKskhDXqvRtJZcBWt6kv79ZA3wNd12jEToYHK4EmZBYoom6LllPSpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\acer\\source\\repos\\s3-dotnet\\s3-dotnet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.core\\3.7.106.44\\awssdk.core.3.7.106.44.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.s3\\3.7.104.24\\awssdk.s3.3.7.104.24.nupkg.sha512"
+  ],
   "logs": []
 }
